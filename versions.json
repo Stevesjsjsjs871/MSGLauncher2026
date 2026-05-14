@@ -1,6 +1,16 @@
 {
   "versions": [
-    {"name": "1.20.80", "url": "https://твоя ссылка на APK", "size": 150000000},
-    {"name": "1.20.71", "url": "https://твоя ссылка на APK", "size": 140000000}
+    {
+      "name": "1.20.80",
+      "description": "Последняя",
+      "url": "https://ссылка-на-apk/minecraft-1.20.80.apk",
+      "size": 150000000
+    },
+    {
+      "name": "1.20.71",
+      "description": "Стабильная",
+      "url": "https://ссылка-на-apk/minecraft-1.20.71.apk",
+      "size": 140000000
+    }
   ]
 }
