@@ -1,12 +1,12 @@
 {
   "versions": [
     {
-      "name": "1.21.80",
+      "name": "1.26.23.01",
       "description": "Последняя",
-      "url": "https://example.com/mcbe-1.21.80.apk",
-      "urlNoMusic": "https://example.com/mcbe-1.21.80-nomusic.apk",
-      "size": 170000000,
-      "sizeNoMusic": 120000000
+      "url": "https://mcpehub.org/engine/getfile.php?id=53319",
+      "urlNoMusic": "https://mcpehub.org/engine/getfile.php?id=53322",
+      "size": 720000000,
+      "sizeNoMusic": 444000000
     },
     {
       "name": "1.21.80",
