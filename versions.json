@@ -1,16 +1,20 @@
 {
   "versions": [
     {
-      "name": "1.20.80",
+      "name": "1.21.80",
       "description": "Последняя",
-      "url": "https://mcpehub.org/engine/getfile.php?id=47802",
-      "size": 150000000
+      "url": "https://example.com/mcbe-1.21.80.apk",
+      "urlNoMusic": "https://example.com/mcbe-1.21.80-nomusic.apk",
+      "size": 170000000,
+      "sizeNoMusic": 120000000
     },
     {
-      "name": "1.20.71",
-      "description": "Стабильная",
-      "url": "https://ссылка-на-apk/minecraft-1.20.71.apk",
-      "size": 140000000
+      "name": "1.21.80",
+      "description": "Последняя",
+      "url": "https://example.com/mcbe-1.21.80.apk",
+      "urlNoMusic": "https://example.com/mcbe-1.21.80-nomusic.apk",
+      "size": 170000000,
+      "sizeNoMusic": 120000000
     }
   ]
 }
