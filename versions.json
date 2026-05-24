@@ -2,19 +2,31 @@
   "versions": [
     {
       "name": "1.26.23.01",
-      "description": "Последняя",
+      "description": "Последняя | С музыкой",
       "url": "https://mcpehub.org/engine/getfile.php?id=53319",
-      "urlNoMusic": "https://mcpehub.org/engine/getfile.php?id=53322",
       "size": 720000000,
-      "sizeNoMusic": 444000000
+      "hasMusic": true
+    },
+        {
+      "name": "1.26.23.01",
+      "description": "Последняя | Без музыки",
+      "url": "https://mcpehub.org/engine/getfile.php?id=53322",
+      "size": 444000000,
+      "hasMusic": false
     },
     {
-      "name": "1.21.80",
-      "description": "Последняя",
-      "url": "https://example.com/mcbe-1.21.80.apk",
-      "urlNoMusic": "https://example.com/mcbe-1.21.80-nomusic.apk",
-      "size": 170000000,
-      "sizeNoMusic": 120000000
+      "name": "1.21.132",
+      "description": "Стабильная | С музыкой",
+      "url": "https://mcpehub.org/engine/getfile.php?id=50983",
+      "size": 700000000,
+      "hasMusic": true
+    },
+    {
+      "name": "1.21.132",
+      "description": "Стабильная | Без музыки",
+      "url": "https://mcpehub.org/engine/getfile.php?id=50984",
+      "size": 420000000,
+      "hasMusic": false
     }
   ]
 }
