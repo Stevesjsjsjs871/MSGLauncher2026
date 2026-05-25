@@ -1,11 +1,38 @@
-[
+ [
   {
-    "title": "Название товара",
-    "description": "Описание товара",
-    "category": "mods",
-    "imageUrl": "https://example.com/image.png",
-    "downloadUrl": "https://example.com/file.mcpack",
+    "id": "faithful_32x",
+    "title": "Faithful RP 32x",
+    "description": "Классический текстур-пак в разрешении 32x для Minecraft Bedrock",
+    "category": "texture",
+    "imageUrl": "https://example.com/faithful.png",
+    "downloadUrl": "https://example.com/faithful.mcpack",
     "isFree": true,
-    "price": ""
+    "price": "",
+    "isNew": true,
+    "dateAdded": "2026-05-25"
+  },
+  {
+    "id": "more_swords",
+    "title": "More Swords Mod",
+    "description": "Добавляет 20 новых мечей с уникальными способностями",
+    "category": "mods",
+    "imageUrl": "https://example.com/swords.png",
+    "downloadUrl": "https://example.com/swords.mcpack",
+    "isFree": true,
+    "price": "",
+    "isNew": true,
+    "dateAdded": "2026-05-24"
+  },
+  {
+    "id": "skyblock_map",
+    "title": "Skyblock Map",
+    "description": "Классический Skyblock на выживание с островом в небе",
+    "category": "maps",
+    "imageUrl": "https://example.com/skyblock.png",
+    "downloadUrl": "https://example.com/skyblock.mcpack",
+    "isFree": false,
+    "price": "99",
+    "isNew": false,
+    "dateAdded": "2026-05-01"
   }
 ]
