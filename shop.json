@@ -1,1 +1,11 @@
-
+[
+  {
+    "title": "Название товара",
+    "description": "Описание товара",
+    "category": "mods",
+    "imageUrl": "https://example.com/image.png",
+    "downloadUrl": "https://example.com/file.mcpack",
+    "isFree": true,
+    "price": ""
+  }
+]
