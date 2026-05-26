@@ -12,15 +12,15 @@
   },
   {
     "id": "faithful_64x",
-    "title": "Faithful RP 32x",
-    "description": "Классический текстур-пак в разрешении 32x для Minecraft Bedrock",
+    "title": "Faithful RP 64x",
+    "description": "Классический текстук в разрешении 32x для Minecraft Bedrock",
     "category": "texture",
     "imageUrl": "https://example.com/faithful.png",
     "downloadUrl": "https://example.com/faithful.mcpack",
     "isFree": true,
     "price": "",
     "isNew": true,
-    "dateAdded": "2026-05-25"
+    "dateAdded": "2026-05-26"
   },
   {
     "id": "more_swords",
