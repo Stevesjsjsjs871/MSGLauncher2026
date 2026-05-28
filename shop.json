@@ -9,19 +9,19 @@
     "isFree": true,
     "price": "",
     "isNew": true,
-    "dateAdded": "2026-05-25"
+    "dateAdded": "2026-05-28"
   },
   {
     "id": "faithful_64x",
     "title": "Faithful RP 64x",
     "description": "Классический текстук-пак в разрешении 64x для для Minecraft Bedrock",
     "category": "texture",
-    "imageUrl": "https://example.com/faithful.png",
-    "downloadUrl": "https://example.com/faithful.mcpack",
+    "imageUrl": "https://i.tlauncher.org/images/faithful-64x-texture-pack-mcpe-8.png",
+    "downloadUrl": "https://tlauncher.ru/download/24798",
     "isFree": true,
     "price": "",
     "isNew": true,
-    "dateAdded": "2026-05-26"
+    "dateAdded": "2026-05-28"
   },
   {
     "id": "more_swords",
